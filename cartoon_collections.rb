@@ -20,5 +20,5 @@ def find_the_cheese(array)
 end
 
 
-#dwarves = ["test", "test2", "test3"]
-#roll_call_dwarves(dwarves)
+dwarves = ["test", "test2", "test3"]
+roll_call_dwarves(dwarves)
