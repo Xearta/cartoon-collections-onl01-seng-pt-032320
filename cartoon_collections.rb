@@ -19,3 +19,4 @@ def find_the_cheese(array)
     item == "cheddar" || item == "gouda" || item == "camembert"
   end
 end
+
